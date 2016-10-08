@@ -84,6 +84,11 @@ ga('send', 'pageview');
             <div class="col-sm-7 col-sm-offset-5">
                 <ul>
                     <li class="title"><span class="glyphicon glyphicon-briefcase"></span>Experience</li>
+		    <li>
+                    <span class="note"><strong>Website Editor at Python Türkiye</strong></span>
+                    <a href="http:/http://www.python.tc/" _fcksavedurl="" target="_blank"><p><strong>NETSERVIS</strong></p></a>
+                    <p class="description">2016 - Present</p>
+                    </li>
                     <li>
                     <span class="note"><strong>Professional Service Intern</strong></span>
                     <a href="http://www.netservis.com.tr/" _fcksavedurl="" target="_blank"><p><strong>NETSERVIS</strong></p></a>
